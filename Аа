@@ -1,0 +1,4 @@
+git clone https://github.com/kimocoder/wifite2  
+cd wifite2  
+sudo python3 setup.py install
+sudo wifite
